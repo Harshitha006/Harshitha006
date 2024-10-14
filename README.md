@@ -1,4 +1,4 @@
-- 👋 Hiii @Harshitha006 this side
-- 🌱 I’m currently learning B.Tech Information Technology
-- 📫 Reach me through harshithababu006@gmail.com
-- a tech enthusiast!
+- Hiii @Harshitha006 this side
+- I’m currently learning B.Tech Information Technology
+- Reach me through harshithababu006@gmail.com
+- A tech enthusiast!
