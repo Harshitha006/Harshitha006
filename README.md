@@ -2,5 +2,5 @@
 - I’m currently learning B.Tech Information Technology
 - Reach me through harshithababu006@gmail.com
 - A Tech-Geek
-- Front-end developer
-- MachineLearning Enthusiast
+- FullStack developer
+- MachineLearning 
